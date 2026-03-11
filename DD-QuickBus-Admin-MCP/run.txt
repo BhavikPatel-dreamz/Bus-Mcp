@@ -1,0 +1,2 @@
+#run-inspector
+uv run fastmcp dev inspector main.py
